@@ -1,0 +1,28 @@
+{
+  "name": "pacage",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.2.0",
+    "axios": "^1.8.4",
+    "ldrs": "^1.1.6",
+    "lodash-es": "^4.17.21",
+    "pinia": "^3.0.1",
+    "vee-validate": "^4.15.0",
+    "vue": "^3.5.13",
+    "vue-multiselect": "^3.2.0",
+    "vue-router": "^4.5.0",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.2.4",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}
